@@ -1,6 +1,6 @@
 # first-app
 
-Make sure you have node.js install.
+Make sure you have node.js installed.
 * Open up a command line terminal.
 * Navigate to the directory containing the source code.
 * Execute `yarn install` to install node.js modules.
